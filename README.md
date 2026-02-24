@@ -25,20 +25,21 @@ Based on the principles in the book *Stock Manthan*, this project replaces manua
 *   An **OpenBB** account for financial data retrieval.
 
 ### 2. Installation
-# Clone the repository
-`git clone https://github.com/bitparanoid27/stock-manthan.git`
-`cd stock-manthan`
 
-# Create and activate virtual environment
+#### Clone the repository
+``git clone https://github.com/bitparanoid27/stock-manthan.git
+cd stock-manthan``
+
+#### Create and activate virtual environment
 `python -m venv venv`
 
-# Activate (Mac/Linux)
+#### Activate (Mac/Linux)
 `source venv/bin/activate`
 
-# Activate (Windows)
+#### Activate (Windows)
 `venv\Scripts\activate`
 
-# Install dependencies
+##### Install dependencies
 `pip install -r requirements.txt`
 
 ### 3. OpenBB Configuration
